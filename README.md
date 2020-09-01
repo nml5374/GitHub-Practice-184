@@ -73,12 +73,13 @@
 | Haichen Wei             | Section 003         | hxw5245              | <https://hxw5245.github.io/Wei_Repo/>                   |
 | Alyssa Knapp            | Section 003         | alyssaknapp          | <https://alyssaknapp.github.io/AlyssaKnapp-Repo/>       |
 | Nurul Syafiqah Mohammad | Section 003         | NurulSyafiqah-pixel  | <https://nurulsyafiqah-pixel.github.io/Nurul-repo-lab/> | 
-| Yichen Shi              | Section 003         | yichen-shi           | <https://yichen-shi.github.io/Practice/>
+| Yichen Shi              | Section 003         | yichen-shi           | <https://yichen-shi.github.io/Practice/>                |
 | Yuqi He                 | Section 003         | Bigmichyk            | https://bigmichyk.github.io/Yuqi-repo/                  |
 | Yiwen Huang             | Section 003         | yyh5172              | <https://yyh5172.github.io/Fall2020_STAT184/>           |
 | Lauren Smith            | Section 001         | laurensmith17        | https://laurensmith17.github.io/stat184/                |
 | Ellen Liu               | Section 003         | Ellen5866            | <https://ellen5866.github.io/GitHub-Practice-184/>      |
-| Josiah Kim | Section 001  | josiahckim | <https://josiahckim.github.io/GitHub-Practice/>|
+| Josiah Kim              | Section 001         | josiahckim           | <https://josiahckim.github.io/GitHub-Practice/>         |
+| Nate Louis              | Section 001         | nml5374              | https://github.com/nml5374/GitHub-Practice-184          | 
 
 # Integration of RStudio with Git
 
